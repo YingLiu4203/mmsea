@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: mktgbi.experiment.Mmsea
+Class-Path: ./lib/flanagan.jar
+
